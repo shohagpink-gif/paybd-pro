@@ -1,1 +1,23 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlcz4KICAgIDwhLS0gTWF0ZXJpYWwgMyBDb2xvciBTY2hlbWUgLS0+CiAgICA8Y29sb3IgbmFtZT0icHJpbWFyeSI+I0UyMTM2RTwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0icHJpbWFyeV92YXJpYW50Ij4jQjgwRDU4PC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJvbl9wcmltYXJ5Ij4jRkZGRkZGPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJzZWNvbmRhcnkiPiMxQzFDMUM8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9Im9uX3NlY29uZGFyeSI+I0ZGRkZGRjwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0iYmFja2dyb3VuZCI+I0Y1RjVGNTwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0ic3VyZmFjZSI+I0ZGRkZGRjwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0ib25fc3VyZmFjZSI+IzFDMUMxQzwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0ib25fc3VyZmFjZV92YXJpYW50Ij4jNjY2NjY2PC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJlcnJvciI+I0IzMjYxRTwvY29sb3I+CgogICAgPCEtLSBTdGF0dXMgQ29sb3JzIC0tPgogICAgPGNvbS5jb2xvciBuYW1lPSJzdGF0dXNfcGVuZGluZyI+I0ZGOEYwMDwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0ic3RhdHVzX2FwcHJvdmVkIj4jMkU3RDMyPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJzdGF0dXNfY2FuY2VsbGVkIj4jQzYyODI4PC9jb2xvcj4KCgpAgPGNvbG9yIG5hbWU9IndoaXRlIj4jRkZGRkZGPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJibGFjayI+IzAwMDAwMDwvY29sb3I+CjwvcmVzb3VyY2VzPgo=
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material 3 Color Scheme -->
+    <color name="primary">#E2136E</color>
+    <color name="primary_variant">#B80D58</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="secondary">#1C1C1C</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="background">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#1C1C1C</color>
+    <color name="on_surface_variant">#666666</color>
+    <color name="error">#B3261E</color>
+
+    <!-- Status Colors -->
+    <color name="status_pending">#FF8F00</color>
+    <color name="status_approved">#2E7D32</color>
+    <color name="status_cancelled">#C62828</color>
+
+    <!-- Common -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
