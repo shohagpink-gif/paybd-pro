@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PayBD Pro</string>
+    <string name="settings_title">Webhook Settings</string>
+    <string name="hint_webhook_url">Webhook URL</string>
+    <string name="hint_auth_token">Auth Token</string>
+    <string name="btn_save_settings">Save Settings</string>
+    <string name="transactions_title">Transactions</string>
+    <string name="btn_approve">Approve</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="empty_state">No transactions yet.\nbKash SMS will appear here automatically.</string>
+    <string name="notification_channel_name">Transaction Notifications</string>
+</resources>
