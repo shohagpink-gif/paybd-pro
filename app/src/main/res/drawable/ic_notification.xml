@@ -1,1 +1,12 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHZlY3RvciB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICBhbmRyb2lkOndpZHRoPSIyNGRwIgogICAgYW5kcm9pZDpoZWlnaHQ9IjI0ZHAiCiAgICBhbmRyb2lkOnZpZXdwb3J0V2lkdGg9IjI0IgogICAgYW5kcm9pZDp2aWV3cG9ydEhlaWdodD0iMjQiCiAgICBhbmRyb2lkOnRpbnQ9Ij9hdHRyL2NvbG9yQ29udHJvbE5vcm1hbCI+CiAgICA8IS0tIFBheW1lbnQvbW9uZXkgbm90aWZpY2F0aW9uIGljb24gLS0+CiAgICA8cGF0aAogICAgICAgIGFuZHJvaWQ6ZmlsbENvbG9yPSIjRkZGRkZGIgogICAgICAgIGFuZHJvaWQ6cGF0aERhdGE9Ik0xMiwyQzYuNDgsMiAyLDYuNDggMiwxMnM0LjQ4LDEwIDEwLDEwIDEwLC00LjQ4IDEwLC0xMFMxNy41MiwyIDEyLDJ6TTEyLDIwYy00LjQxLDAgLTgsLTMuNTkgLTgsLThzMy41OSwtOCA4LC04IDgsMy41OSA4LDggLTMuNTksOCAtOCw4ek0xMi4zMSwxMS4xNGMtMS43NywtMC40NSAtMi4zNCwtMC45NCAtMi4zNCwtMS42NyAwLC0wLjg0IDAuNzksLTEuNDMgMi4xLC0xLjQzIDEuMzgsMCAxLjksMC42NiAxLjk0LDEuNjRoMS43MWMtMC4wNSwtMS4zNCAtMC44NywtMi41NyAtMi40OSwtMi45N1Y1SDExLjE4djEuNjljLTEuNTEsMC4zMiAtMi43MiwxLjMgLTIuNzIsMi44MSAwLDEuNzkgMS40OSwyLjY5IDMuNjYsMy4yMSAxLjk1LDAuNDYgMi4zNCwxLjE1IDIuMzQsMS44NyAwLDAuNTMgLTAuMzksMS4zOSAtMi4xLDEuMzkgLTEuNiwwIC0yLjIzLC0wLjcyIC0yLjMyLC0xLjY0SDguMzJjMC4xLDEuNzEgMS4zNiwyLjY2IDIuODYsMi45N1YxOWgyLjA1di0xLjY4YzEuNTIsLTAuMjkgMi43MiwtMS4xNiAyLjczLC0yLjc3IC0wLjAxLC0yLjIgLTEuOSwtMi45NiAtMy42NSwtMy40MXoiIC8+CjwvdmVjdG9yPgo=
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="?attr/colorControlNormal">
+    <!-- Payment/money notification icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,2C6.48,2 2,6.48 2,12s4.48,10 10,10 10,-4.48 10,-10S17.52,2 12,2zM12,20c-4.41,0 -8,-3.59 -8,-8s3.59,-8 8,-8 8,3.59 8,8 -3.59,8 -8,8zM12.31,11.14c-1.77,-0.45 -2.34,-0.94 -2.34,-1.67 0,-0.84 0.79,-1.43 2.1,-1.43 1.38,0 1.9,0.66 1.94,1.64h1.71c-0.05,-1.34 -0.87,-2.57 -2.49,-2.97V5H11.18v1.69c-1.51,0.32 -2.72,1.3 -2.72,2.81 0,1.79 1.49,2.69 3.66,3.21 1.95,0.46 2.34,1.15 2.34,1.87 0,0.53 -0.39,1.39 -2.1,1.39 -1.6,0 -2.23,-0.72 -2.32,-1.64H8.32c0.1,1.71 1.36,2.66 2.86,2.97V19h2.05v-1.68c1.52,-0.29 2.72,-1.16 2.73,-2.77 -0.01,-2.2 -1.9,-2.96 -3.65,-3.41z" />
+</vector>

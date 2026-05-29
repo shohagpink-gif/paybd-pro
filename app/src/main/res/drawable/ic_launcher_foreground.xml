@@ -1,1 +1,19 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHZlY3RvciB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICBhbmRyb2lkOndpZHRoPSIxMDhkcCIKICAgIGFuZHJvaWQ6aGVpZ2h0PSIxMDhkcCIKICAgIGFuZHJvaWQ6dmlld3BvcnRXaWR0aD0iMTA4IgogICAgYW5kcm9pZDp2aWV3cG9ydEhlaWdodD0iMTA4Ij4KICAgIDwhLS0gV2hpdGUgY2lyY2xlIGJhY2tncm91bmQgLS0+CiAgICA8cGF0aAogICAgICAgIGFuZHJvaWQ6ZmlsbENvbG9yPSIjRkZGRkZGIgogICAgICAgIGFuZHJvaWQ6cGF0aERhdGE9Ik01NCwzMCBDNDAuNzQ1LDMwIDMwLDQwLjc0NSAzMCw1NCBDMzAsNjcuMjU1IDQwLjc0NSw3OCA1NCw3OCBDNjcuMjU1LDc4IDc4LDY3LjI1NSA3OCw1NCBDNzgsNDAuNzQ1IDY3LjI1NSwzMCA1NCwzMHoiIC8+CiAgICA8IS0tIFBpbmsgaW5uZXIgY2lyY2xlIC0tPgogICAgPHBhdGgKICAgICAgICBhbmRyb2lkOmZpbGxDb2xvcj0iI0UyMTM2RSIKICAgICAgICBhbmRyb2lkOnBhdGhEYXRhPSJNNTQsMzQgQzQyLjk1NCwzNCAzNCw0Mi45NTQgMzQsNTQgQzM0LDY1LjA0NiA0Mi45NTQsNzQgNTQsNzQgQzY1LjA0Niw3NCA3NCw2NS4wNDYgNzQsNTQgQzc0LDQyLjk1NCA2NS4wNDYsMzQgNTQsMzR6IiAvPgogICAgPCEtLSBUYWthIHN5bWJvbCAtLT4KICAgIDxwYXRoCiAgICAgICAgYW5kcm9pZDpmaWxsQ29sb3I9IiNGRkZGRkYiCiAgICAgICAgYW5kcm9pZDpwYXRoRGF0YT0iTTQ5LDQ0IEw0OSw2NCBNNDksNTAgUTQ5LDQ2IDUzLDQ2IFE1Nyw0NiA1Nyw1MCBRNTcsNTQgNTMsNTQgUTQ5LDU0IDQ5LDUwIE01Nyw1NCBMNTcsNjQiIC8+CjwvdmVjdG9yPgo=
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- White circle background -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 C40.745,30 30,40.745 30,54 C30,67.255 40.745,78 54,78 C67.255,78 78,67.255 78,54 C78,40.745 67.255,30 54,30z" />
+    <!-- Pink inner circle -->
+    <path
+        android:fillColor="#E2136E"
+        android:pathData="M54,34 C42.954,34 34,42.954 34,54 C34,65.046 42.954,74 54,74 C65.046,74 74,65.046 74,54 C74,42.954 65.046,34 54,34z" />
+    <!-- Taka symbol -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M49,44 L49,64 M49,50 Q49,46 53,46 Q57,46 57,50 Q57,54 53,54 Q49,54 49,50 M57,54 L57,64" />
+</vector>
